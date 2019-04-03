@@ -4,5 +4,5 @@ Hi,
 
 The following students participated in the class:
 
-- Rahul Jha 
+- Rahul Jha  
 
