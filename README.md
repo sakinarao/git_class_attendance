@@ -6,4 +6,3 @@ The following students participated in the class:
 
 - Rahul Jha
 - Jawad
-- Muznah Aftab
